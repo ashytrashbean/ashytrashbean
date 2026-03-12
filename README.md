@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">:wave: My name is Annalu<br> :world_map: I'm from :brazil: & :sweden: <br> :computer: I'm a Frontend Developer. <br><br>I've also studied: <br>  :video_game:  Game Design <br>  :film_strip:  2D Animation <br>  :black_nib:  Digital Illustration</p>
+<p align="left">:wave: My name is Annalu<br> :world_map: I'm from :brazil: & :sweden: <br> :computer: I'm a Frontend Developer Student. <br><br>I've also studied: <br>  :video_game:  Game Design <br>  :film_strip:  2D Animation <br>  :black_nib:  Digital Illustration</p>
 
 
 ###
